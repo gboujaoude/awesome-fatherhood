@@ -1,6 +1,8 @@
 # awesome-fatherhood
 An opinionated list of awesome resources for Christian Men and Fathers
 
-Based on computer science, open source resources such as [awesome-python](https://github.com/vinta/awesome-python) and [awesome-php](https://github.com/ziadoz/awesome-php)
+Based on open source resources such as [awesome-python](https://github.com/vinta/awesome-python) and [awesome-php](https://github.com/ziadoz/awesome-php)
 
-* [F3Nation](https://f3nation.com/) - F3 stands for Faith, Fitness, and Fellowship
+* [The Bible Project](https://bibleproject.com/) - Nonprofit, crowdfunded organization that makes free resources like videos, podcasts, articles, and classes to help people experience the Bible in a way that is approachable and transformative
+* [Desiring God](https://www.desiringgod.org/) - Online resources to guide you toward everlasting joy in Jesus Christ
+* [F3Nation](https://f3nation.com/) - Faith, Fitness, and Fellowship (F3) with the mission to plant, grow and serve small workout groups for men for the invigoration of male community leadership
